@@ -1,0 +1,34 @@
+newmtl Bark
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1
+map_Kd Bark.png
+
+newmtl BarkLight
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1
+map_Kd BarkLight.png
+
+newmtl LeafDark
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1
+map_Kd LeafDark.png
+
+newmtl LeafMid
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1
+map_Kd LeafMid.png
+
+newmtl LeafLight
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 1
+map_Kd LeafLight.png

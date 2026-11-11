@@ -1,0 +1,29 @@
+newmtl Bark
+Ka 0.25 0.16 0.08
+Kd 1.0 1.0 1.0
+Ks 0 0 0
+map_Kd bark.png
+
+newmtl BarkLight
+Ka 0.38 0.26 0.14
+Kd 1.0 1.0 1.0
+Ks 0 0 0
+map_Kd bark_light.png
+
+newmtl LeafDark
+Ka 0.12 0.30 0.10
+Kd 1.0 1.0 1.0
+Ks 0 0 0
+map_Kd leaf_dark.png
+
+newmtl LeafMid
+Ka 0.18 0.38 0.12
+Kd 1.0 1.0 1.0
+Ks 0 0 0
+map_Kd leaf_mid.png
+
+newmtl LeafLight
+Ka 0.25 0.45 0.14
+Kd 1.0 1.0 1.0
+Ks 0 0 0
+map_Kd leaf_light.png

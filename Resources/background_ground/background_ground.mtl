@@ -1,0 +1,80 @@
+newmtl ground_0
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd LeafMid.png
+
+newmtl ground_1
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd LeafMid.png
+
+newmtl ground_2
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd LeafMid.png
+
+newmtl ground_3
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd LeafMid.png
+
+newmtl ground_4
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd LeafLight.png
+
+newmtl ground_5
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd LeafDark.png
+
+newmtl ground_6
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd Bark.png
+
+newmtl ground_7
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd BarkLight.png
+
+newmtl ground_8
+Ka 0.2 0.2 0.2
+Kd 1 1 1
+Ks 0 0 0
+Ns 1
+d 1
+illum 1
+map_Kd Bark.png

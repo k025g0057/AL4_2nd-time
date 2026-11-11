@@ -1,0 +1,5 @@
+newmtl GroundField
+Ka 0.55 0.70 0.48
+Kd 1.0 1.0 1.0
+Ks 0 0 0
+map_Kd ground_green.png
